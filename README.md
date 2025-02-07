@@ -272,3 +272,4 @@ To launch the app, use the following command:
 ```bash
      streamlit run extra_work.py
 ```
+You can, also, directly go to the app using the link provided in the `About` section of this repository.
