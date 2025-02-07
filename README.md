@@ -144,7 +144,7 @@ The performance of the clustering algorithms was evaluated using the following m
 
 ### 📚 Lessons Learned & Future Improvements
 
-Throughout this project, we gained valuable insights into the clustering process and how to approach data analysis in a more effective and efficient manner. Here are some key lessons learned and potential improvements for this projects:
+Throughout this project, we gained valuable insights into the clustering process and how to approach data analysis in a more effective and efficient manner. Here are some potential improvements for this projects:
 
 1. **Data Preprocessing - Scaling the Data**:
    - One of the key mistakes in our data preprocessing was failing to scale the data before applying KNN imputation. As KNN relies on the distance between data points, it is essential to normalize the data to ensure that all features contribute equally to the distance calculations.
@@ -252,8 +252,10 @@ To enhance the user experience and provide an interactive tool for exploring our
 5. **About Us Page**:
    - Provides information about the roles of team members, academic backgrounds, relevant experience, extracurricular activities, and contact details (phone, email, and LinkedIn profiles).
    - Includes a brief history of **TargetSphere Advisors**, along with our **Vision**, **Values**, and **contact options**.
-  
-#### **Prerequisites to Run the Streamlit App**:
+
+<br>
+
+#### 🛠 **Prerequisites to Run the Streamlit App**:
 To run the interactive website using Streamlit, make sure to run the following:
 
 - **Functions used in the app**:  
