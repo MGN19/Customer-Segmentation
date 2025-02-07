@@ -269,4 +269,6 @@ To run the interactive website using Streamlit, make sure to run the following:
      ```
 
 To launch the app, use the following command:
-streamlit run extra_work.py
+```bash
+     streamlit run extra_work.py
+```
